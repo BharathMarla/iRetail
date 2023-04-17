@@ -1,0 +1,33 @@
+
+.add-button-initial{
+    width: 90px;
+    height: 35px;
+    border: 1px solid green;
+    border-radius: 8px;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: 550;
+    background-color: transparent;
+    color: green;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add-button-clik{
+    width: 90px;
+    height: 35px;
+    border: 1px solid green;
+    border-radius: 8px;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: 550;
+    background-color: rgb(3, 110, 3);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icon{
+    cursor: pointer;
+}
